@@ -1,0 +1,4 @@
+# Requirement file for pip
+# Install it with pip install -r requirements.txt
+
+requests>=2.18.0
